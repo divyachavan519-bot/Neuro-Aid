@@ -1,0 +1,2 @@
+# Neuro-Aid
+NeuroAid is an AI-powered early screening tool for grades 2–5 that detects dyslexia through handwriting analysis and differentiates slow learners from SLDs. It offers risk scoring, adaptive exercises, 30-day monitoring, and automated progress reports to enable early intervention.
